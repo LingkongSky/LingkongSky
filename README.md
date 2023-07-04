@@ -1,16 +1,39 @@
-### Hi there 👋
+# LingkongSky
+### Welcome to my homepage!
+This is LingkongSky,a normal student who are interested in computer science.
+- 🌱 Enjoy the time of free programming
+- 🤔 focus on update of the skill stacks on fornt end
+- 📝 Regularly write articles about in personal blog
+- 🔭 Working on **ACR Team** and **Nijigumi**
+- ⚡ Fun fact **I'm Nijigen**
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LingkongSky&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
 
-<!--
-**LingkongSky/LingkongSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Debian Linux
+- Jpop Music
+- Soft Reverse
+- Computer Science
+- Category theory
+- Type Theory
+- Physics
+- Front & Bcak End
+
+
+### Visit Count (Since 30 June 2023)
+![](https://count.getloli.com/get/@LingkongSky?theme=moebooru)
