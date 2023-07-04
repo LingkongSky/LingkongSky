@@ -37,3 +37,7 @@ This is LingkongSky,a normal student who are interested in computer science.
 
 ### Visit Count (Since 30 June 2023)
 ![](https://count.getloli.com/get/@LingkongSky?theme=moebooru)
+
+### See Also
+[凌空的博客小站](https://www.skyblogs.xyz "凌空的博客小站")
+
