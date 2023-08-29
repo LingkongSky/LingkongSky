@@ -24,6 +24,11 @@ This is LingkongSky,a normal student who are interested in computer science.
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
+
+### Languages Situation
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingkongsky)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Interests
 - Debian Linux
 - Jpop Music
