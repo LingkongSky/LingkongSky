@@ -2,7 +2,7 @@
 ### Welcome to my homepage!
 This is LingkongSky,a normal student who are interested in computer science.
 - 🌱 Enjoy the time of free programming
-- 🤔 focus on update of the skill stacks on fornt end
+- 🤔 focus on update of the skill stacks on front and backend
 - 📝 Regularly write articles about in personal blog
 - 🔭 Working on **ACR Team** and **Nijigumi**
 - ⚡ Fun fact **I'm Nijigen**
