@@ -5,7 +5,6 @@ This is LingkongSky,a normal student who are interested in computer science.
 - 🤔 focus on update of the skill stacks on front and backend
 - 📝 Regularly write articles about in personal blog
 - 🔭 Working on **ACR Team** and **Nijigumi**
-- ⚡ Fun fact **I'm Nijigen**
   
 [![Anurag's GitHub stats](https://github-readme-stats-gules-omega.vercel.app/api?username=LingkongSky&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
